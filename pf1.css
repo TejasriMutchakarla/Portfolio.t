@@ -1,7 +1,7 @@
 body {
     margin:0px;
     padding:0px;
-    background-image: url('../"C:\Users\vlshy\OneDrive\Desktop\CSS\portfolio\bgg.jpg"');
+    background-image: url('../C:\Users\vlshy\OneDrive\Desktop\CSS\portfolio\bgg.jpg');
     background-size:cover;
   
 }
@@ -39,7 +39,7 @@ a:active{
 .pic{
     height:400px;
     width:300px;
-    background-image: url("../"C:\Users\vlshy\OneDrive\Desktop\CSS\portfolio\img1.jpg"");
+    background-image: url('../C:\Users\vlshy\OneDrive\Desktop\CSS\portfolio\img1.jpg');
     border-radius: 50px;
     padding: 10px 0px 2px 2px;
     margin:10px 2px 2px 250px;
